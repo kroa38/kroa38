@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kroa38
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning RTOS, C++, RUST
 - 💞️ I’m looking to collaborate on (heu!)
 - 📫 How to reach me (i don't know my self)
 
